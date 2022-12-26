@@ -1,7 +1,7 @@
 # Eye Exercise
 
 ## Project Description
-he original objective was to have a single eye track the location of the user's cursor. For an added layer of complexity, a second tracking eye is added for the eyes to look human. Both eyes are kept in sync thanks to a for-loop.
+The original objective was to have a single eye track the location of the user's cursor. For an added layer of complexity, a second tracking eye is added for the eyes to look human. Both eyes are kept in sync thanks to a for-loop.
 
 ## How to Run
 To run the program, begin by downloading this repository. Once installed, open index.html in a new browser tab and the two eyes will render upon launch. Move your cursor across the browser window to see the eyes track it. 
